@@ -1,0 +1,39 @@
+[
+    {
+    "id": 2,
+    "bebida": "heineken",
+    "precio": 2.5,
+    "imagen": "https://www.1898drinksboutique.com/wp-content/uploads/2020/04/heineken.jpg",
+    "cantidad": 3
+    },
+
+    
+    {
+        "id": 3,
+        "bebida": "dorada",
+        "precio": 2,
+        "imagen": "https://sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/202201/28/00118600300679____2__600x600.jpg",
+        "cantidad": 3
+    },
+    {
+        "id": 4,
+        "bebida": "coca-cola",
+        "precio": 1,
+        "imagen": "https://static.carrefour.es/hd_510x_/img_pim_food/364178_00_1.jpg",
+        "cantidad": 12
+    },
+    {
+        "id": 5,
+        "bebida": "zumo",
+        "precio": 0.8,
+        "imagen": "https://vivonium.es/wp-content/uploads/2020/05/Zumo-de-naranja-juver.jpg",
+        "cantidad": 2
+    },
+    {
+        "id": 1,
+        "bebida": "agua",
+        "precio": 0.5,
+        "imagen": "https://sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/202104/05/00118630004077____2__600x600.jpg",
+        "cantidad": 4
+    }
+]
